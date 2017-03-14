@@ -1,0 +1,14 @@
+{
+  "name": "nodetriones",
+  "version": "1.0.0",
+  "description": "control BLE RGB modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r.bohne",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.8.0"
+  }
+}
